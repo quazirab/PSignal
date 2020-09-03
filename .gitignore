@@ -1,0 +1,19 @@
+# Workspace
+.vscode/
+*.code-workspace
+
+# Python
+*.pyc
+envr/
+__pycache__/
+
+# Debug
+bin/
+*.log
+debug/
+build/*/
+dist/
+*.log.*
+releases/*
+
+# Project
