@@ -19,7 +19,13 @@ from PSignal.PSignal import Signal
 
 Tested in python 3.6
 
+## Classes
+1. Signal - runs connected function(s)
+1. SignalFactory - collection of Signal class in dictionary
+1. SignalTimer - emits started and finished Signal based on set time in seconds 
+
 ## Example
+More examples in example directory
 
 ```python
 from PSignal import Signal
